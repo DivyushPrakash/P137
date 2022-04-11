@@ -1,0 +1,35 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    width: 100%;
+    background-color: rgba(37, 155, 7, 0.39);
+    font-size: 30px;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 0;
+}
+
+.h3s {
+    font-size: 18px;
+    color: orange;
+}
+
+.footer {
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    background-color: rgba(37, 155, 7, 0.479);
+    text-align: center;
+    line-height: 3lines;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+canvas {
+    margin-top: 110px;
+    box-shadow: 20px 20px 50px rgba(4, 216, 253, 0.623);
+}
